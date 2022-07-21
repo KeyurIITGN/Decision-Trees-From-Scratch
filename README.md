@@ -1,1 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6717251&assignment_repo_type=AssignmentRepo)
+# Decision trees from scratch
+A python project made just using Pandas and NumPy library which provides functionalities similar to Scikit-learn implementation of decision trees to train, test and evaluate decision tree models on any data.
+
+Implemented as a part of the course ES-643 at IIT Gandhinagar.
